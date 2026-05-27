@@ -1,0 +1,27 @@
+riga 1 = carica file su Colab
+riga 3 = import gestione dati (pandas)
+riga 5 = import grafici
+riga 8 = regressione lineare
+riga 9 = test statistici
+riga 11 = carica dataset
+riga 14 = statistiche principali del dataset
+
+riga 20 = variabile indipendente (massa molecolare)
+riga 21 = variabile dipendente (punto di ebollizione)
+riga 22 = crea modello
+riga 23 = allena modello
+
+riga 26 = linea di regressione nel grafico
+riga 28 = etichetta asse Y
+riga 32 = mostra grafico
+
+riga 35 = R² (quanto il modello è buono)
+
+riga 38 = trasforma dati in numeri per categorie
+riga 42 = modello con più variabili
+
+riga 46 = confronto tra gruppi (boxplot)
+riga 50 = confronto statistico (t-test)
+
+riga 52 = grafico finale con colori
+riga 53 = mostra grafico finale
